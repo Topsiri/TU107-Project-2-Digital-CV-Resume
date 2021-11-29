@@ -13,7 +13,9 @@
 
 ## ผลงาน
 
+![รูปงานfolk (2)](https://user-images.githubusercontent.com/93911361/143859250-49cd1c33-77fa-4d13-bc9a-0ea527eecf6d.JPG)
 
+ได้เข้าร่วมชมรมดนตรีของทางมหาวิทยาลัยธรรมศาสตร์ และได้ร่วมแสดงในงานภายในมหาวิทยาลัยธรรมศาสตร์
 
 Cover เพลงใน [Youtube](https://www.youtube.com/channel/UC7d8HW5Auql65hx5fcySPsg)
 
