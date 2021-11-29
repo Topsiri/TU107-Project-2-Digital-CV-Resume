@@ -1,10 +1,24 @@
-## Digital Profile
+# Digital Profile
+![gum (3)](https://user-images.githubusercontent.com/93911361/143854612-475b8f47-6c67-4b81-8882-0453b1ddf149.jpg)
 
-
+## ประวัติส่วนตัว
 
 ชื่อ - สกุล : ศิริพงศ์ หงษ์นคร
 
 รหัสนักศึกษา : 6424650635
+
+การศีกษา : สาขาวิชาวิทยาศาสตร์และข้อมูล คณะวิทยาลัยสหวิทยาการ มหาวิทยาลัยธรรมศาสตร์  
+
+ความสามารถพิเศษ : การเล่นดนตรี,ร้องเพลง,เล่นกีฬา
+
+## ผลงาน
+
+
+
+Cover เพลงใน [Youtube](https://www.youtube.com/channel/UC7d8HW5Auql65hx5fcySPsg)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Topsiri/TU107na/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
